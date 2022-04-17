@@ -135,7 +135,7 @@ Commonly used databases are:
 
 - As a result, applications require less code, use more natural datamodelling, and code bases are  easier to maintain. 
 
-<img title="DBMS" alt="Alt text" src="img/img4.jpg" width=100%>
+<img title="DBMS" alt="Alt text" src="img/img4.jpg" width=400px>
 
 ### **Relational Database Management System:**
 
